@@ -15,7 +15,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.google.firebase.faisal.localchat.Main2Activity"></activity>
 
         <service android:name="com.google.firebase.faisal.localchat.Service.FireBaseServiceId">
 
